@@ -26,5 +26,6 @@ ctx.stroke();
 
 
 //Imagem
-ctx.moveTo(10, 10);
-ctx.drawImage(img, 5, 5);
+function imagem (){
+ctx.drawImage(img, 1, 1);
+}
